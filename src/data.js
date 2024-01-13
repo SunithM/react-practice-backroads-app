@@ -41,7 +41,7 @@ export const tours = [
   {
     id: 1,
     image: tour1,
-    date: 'october 1th, 2020',
+    date: 'April 8th, 2024',
     title: 'best of java',
     info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
     location: 'indonesia',
@@ -52,7 +52,7 @@ export const tours = [
   {
     id: 2,
     image: tour2,
-    date: 'august 26th, 2020',
+    date: 'august 26th, 2024',
     title: 'Tibet Adventure',
     info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
     location: 'china',
@@ -63,7 +63,7 @@ export const tours = [
   {
     id: 3,
     image: tour3,
-    date: 'october 1th, 2020',
+    date: 'March 1th, 2024',
     title: 'best of java',
     info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
     location: 'indonesia',
@@ -74,7 +74,7 @@ export const tours = [
   {
     id: 4,
     image: tour4,
-    date: 'december 5th, 2019',
+    date: 'February 5th, 2024',
     title: 'kenya highlights',
     info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
     location: 'kenya',
