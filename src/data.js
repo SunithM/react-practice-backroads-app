@@ -52,7 +52,7 @@ export const tours = [
   {
     id: 2,
     image: tour2,
-    date: 'august 26th, 2024',
+    date: 'august 10th, 2024',
     title: 'Tibet Adventure',
     info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
     location: 'china',
